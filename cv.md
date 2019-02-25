@@ -2,6 +2,8 @@
 
 #### Junior Front End Developer - 3 month experience
 
+I would be glad to join the project as a junior font end developer. I have good self-education abilities, and I easily integrate into new working conditions. Also my advantages include high troubleshooting skills.
+
 > **Experience**
 
 - Development of a simple chat messenger, hosting on firebase
@@ -18,6 +20,10 @@
 - September 2014 – May 2016  
   Language training center BSUIR “English. Pre- intermediate” and “English. Intermediate”
 
-> Personal Info
-> Skills
-> Languages
+> **Personal Info**
+
+- Adress : Minsk, Belarus
+- E-mail: menitskay@gmail.com
+- LinkedIn: [https://www.linkedin.com/in/alesia-mianitskaya](https://www.linkedin.com/in/alesia-mianitskaya-220b55140/)
+  > Skills
+  > Languages
