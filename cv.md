@@ -6,7 +6,8 @@ I would be glad to join the project as a junior font end developer. I have good 
 
 > **Experience**
 
-- Development of a simple chat messenger, hosting on firebase
+- Development of a simple chat messenger, hosting on firebase.
+- Code: [https://gitlab.com/simplechat](https://gitlab.com/alesiamen/chat69)
 
 > **Education**
 
@@ -25,5 +26,15 @@ I would be glad to join the project as a junior font end developer. I have good 
 - Adress : Minsk, Belarus
 - E-mail: menitskay@gmail.com
 - LinkedIn: [https://www.linkedin.com/in/alesia-mianitskaya](https://www.linkedin.com/in/alesia-mianitskaya-220b55140/)
-  > Skills
-  > Languages
+
+> **Skills**
+
+- Java, Git, Selenium WebDriver, Selenium Grid, Jenkins, SQL, HTML,
+  CSS, XML/XSD, JSON, Agile.
+
+> **Languages**
+
+- English: Intermediate, communication with customers through speaking
+  and writing
+- Belarusian: native
+- Russian: native
