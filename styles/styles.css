@@ -1,5 +1,5 @@
 @import url("https://fonts.googleapis.com/css?family=Kaushan+Script");
-@import url("https://fonts.googleapis.com/css?family=Cantarell");
+@import url("https://fonts.googleapis.com/css?family=Cantarell:400,700");
 
 body {
   width: 100%;
@@ -8,6 +8,20 @@ body {
   background-image: url(../assets/FlowerBackground.jpg);
   background-repeat: no-repeat;
   background-position: center;
+}
+
+a {
+  text-decoration: none;
+  color: #454545;
+}
+
+a:hover {
+  color: #d37885;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0px;
 }
 
 header {
@@ -49,7 +63,7 @@ header h2 {
   text-align: center;
   font-family: "Cantarell", sans-serif;
   color: #d37885;
-  letter-spacing: 2px;
+  letter-spacing: 1px;
 }
 
 main {
@@ -72,17 +86,57 @@ main section {
 
 main h3 {
   width: 215px;
-  margin: 20px 0px 30px 0px;
+  margin: 20px auto 30px auto;
   background-image: url(../assets/rectangle.png);
   background-size: cover;
   font-size: 20px;
+  font-weight: 400;
   text-align: center;
   text-transform: uppercase;
   letter-spacing: 1px;
   color: #d37885;
 }
 
+.aboutme {
+  position: relative;
+  bottom: 172px;
+}
+
 .about {
   margin: 0px;
   text-align: justify;
+}
+
+.contacts {
+  position: relative;
+  bottom: 150px;
+}
+
+.contacts span {
+  padding-right: 10px;
+  font-weight: bold;
+}
+.skills {
+  position: relative;
+  bottom: 155px;
+}
+
+.skills p {
+  margin: 30px 0px;
+}
+
+.skills span {
+  margin: 0px 15px;
+  padding: 10px;
+  border: 1px solid #736948;
+  border-radius: 25px;
+}
+
+.education span {
+  font-family: "Kaushan Script", cursive;
+  color: #736948;
+}
+
+.education p {
+  margin: 6px 0px 25px 0px;
 }
