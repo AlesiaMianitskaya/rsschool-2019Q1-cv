@@ -79,18 +79,18 @@ main {
 main section {
   display: inline-block;
   width: 450px;
-  height: 200px;
-  margin: 0px 25px;
+  height: 210px;
+  margin: 0px 28px;
   font-size: 16px;
   color: #454545;
 }
 
 main h3 {
-  width: 215px;
+  width: 225px;
   margin: 20px auto 30px auto;
   background-image: url(../assets/rectangle.png);
   background-size: cover;
-  font-size: 20px;
+  font-size: 21px;
   font-weight: 400;
   text-align: center;
   text-transform: uppercase;
@@ -123,12 +123,12 @@ main h3 {
 }
 
 .skills p {
-  margin: 30px 0px;
+  margin: 25px 0px;
 }
 
 .skills span {
   margin: 0px 15px;
-  padding: 10px;
+  padding: 5px;
   border: 1px solid #736948;
   border-radius: 25px;
 }
