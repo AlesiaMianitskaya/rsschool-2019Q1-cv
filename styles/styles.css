@@ -62,6 +62,7 @@ header h2 {
   margin: 0px;
   text-align: center;
   font-family: "Cantarell", sans-serif;
+  font-weight: 400;
   color: #d37885;
   letter-spacing: 1px;
 }
@@ -99,7 +100,7 @@ main h3 {
 
 .aboutme {
   position: relative;
-  bottom: 172px;
+  bottom: 163px;
 }
 
 .about {
@@ -109,7 +110,7 @@ main h3 {
 
 .contacts {
   position: relative;
-  bottom: 150px;
+  bottom: 140px;
 }
 
 .contacts span {
@@ -118,7 +119,7 @@ main h3 {
 }
 .skills {
   position: relative;
-  bottom: 155px;
+  bottom: 150px;
 }
 
 .skills p {
@@ -139,4 +140,13 @@ main h3 {
 
 .education p {
   margin: 6px 0px 25px 0px;
+}
+
+.languages {
+  position: relative;
+  bottom: 30px;
+}
+
+.languages li {
+  margin: 5px 0px;
 }
